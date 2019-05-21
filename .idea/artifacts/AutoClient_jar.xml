@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="AutoClient:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AutoClient_jar</output-path>
+    <root id="archive" name="AutoClient.jar">
+      <element id="module-output" name="AutoClient" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/NetBeansProjects/ServerData/dist/ServerData.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
